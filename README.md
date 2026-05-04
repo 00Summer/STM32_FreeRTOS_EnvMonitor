@@ -1,0 +1,2 @@
+# STM32_FreeRTOS_EnvMonitor
+基于STM32和FreeRTOS，集成I2C传感器与LCD屏幕，具备高并发能力的环境状态监测与软硬件交互系统。
